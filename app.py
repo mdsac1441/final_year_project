@@ -28,11 +28,11 @@ def main():
 
     st.sidebar.title("Contribute")
     st.sidebar.info(
-        "This is an open source project and you are very welcome to **contribute** your awesome "
+        "This is a College project and you are very welcome to **contribute** your awesome "
         "comments, questions, resources and apps as "
-        "[issues](https://github.com/mdsac1441/) of or "
-        "[pull requests](https://github.com/mdsac1441/) "
-        "to the [source code](https://github.com/mdsac1441/). "
+        "[issues](https://github.com/mdsac1441/final_year_project/issues) of or "
+        "[pull requests](https://github.com/mdsac1441/final_year_project/pulls) "
+        "to the [source code](https://github.com/mdsac1441/final_year_project). "
     )
 
     st.sidebar.title("About")
