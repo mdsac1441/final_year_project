@@ -47,7 +47,7 @@ def write():
         image = Image.open((os.path.join(BASE_DIR, "danish.jpg")))
         st.image(image, width=120)
 
-        st.text("- Danish Faraz\n-CEO &Project Manager")
+        st.text("- Danish Faraz\n-CEO & Project Manager")
 
     with col3:
         image = Image.open((os.path.join(BASE_DIR, "aman.jpeg")))
@@ -59,7 +59,7 @@ def write():
         image = Image.open((os.path.join(BASE_DIR, "ahmed.jpg")))
         st.image(image, width=120)
 
-        st.text("- Md Sharique Ahmed\n-Gareeb Engineer")
+        st.text("- Md Sharique Ahmed\n-Devops Engineer & Team Leader")
 
     st.markdown("<h2 style='text-align: center; color: #F63366;'>Proactive.</h2>",
                 unsafe_allow_html=True)
